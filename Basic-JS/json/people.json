@@ -1,0 +1,15 @@
+[
+  {
+    "first": "John",
+    "department": "TechOps"
+  }, {
+    "first": "Smith",
+    "department": "TechOps"
+  }, {
+    "first": "Sherry",
+    "department": "Reliability"
+  }, {
+    "first": "Bill",
+    "department": "TechOps"
+  }
+]
